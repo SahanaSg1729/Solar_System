@@ -84,7 +84,7 @@ void drawParticle(Particle currParticle);
 void drawAllParticles();
 //void drawStars();
 
-/*******************Introduction*********************/
+/*******************Introduction***********************/
 void IntroductionTimerFunction(int);
 void displayText(float, float, int, int, int, const char*);
 void myinit();
